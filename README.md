@@ -16,4 +16,6 @@ I also mentored three mission design honors projects for this class. Project sta
 8. Attitude determination
 
 
+The material is shared for student preparation and reference. 
+Owners: Dr. Daniele Mortari and Ram Bhaskara.  
 
