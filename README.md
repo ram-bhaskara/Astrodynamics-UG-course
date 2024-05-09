@@ -2,7 +2,11 @@
 
 Assignments (with solutions) for undergraduate orbital mechanics course. I was a teaching assistant for this fundamental course on astrodynamics at Aerospace Engg., Texas A&M. I have designed these assignments in the spirit of covering fundamental concepts in theory and application (programming) at undergraduate level. 
 
-I also mentored three mission design honors projects for this class. Project statements will be shared upon request. 
+I also mentored two mission design honors projects for this class. Project statements included 
+1. Interplanetary Hohmann transfer to Mars using lunar gravity assist, 
+2. Mission to Jupiter from LEO with gravity assist from Mars.
+
+Mission design is analyzed using analytical approaches and the [NASA GMAT tool](https://software.nasa.gov/software/GSC-17177-1). 
 
 # Topics
 
@@ -17,5 +21,5 @@ I also mentored three mission design honors projects for this class. Project sta
 
 
 The material is shared for student preparation and reference. 
-Owners: Dr. Daniele Mortari and Ram Bhaskara.  
+Owners: Prof. Daniele Mortari and Ram Bhaskara.  
 
